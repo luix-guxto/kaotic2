@@ -1,0 +1,17 @@
+node_modules
+logs
+cases.txt
+teste.txt
+
+
+
+# managed
+**.data.json
+**.node-persist**
+# end managed
+package-lock.json
+
+/lib/config/Grupos
+/lib/config/Bot
+!/lib/config/Bot/config.json
+/lib/config/Bot/Backup
